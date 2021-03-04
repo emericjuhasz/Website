@@ -2,14 +2,10 @@ header {
   background-color: #294969;
   color: ghostwhite;
   padding: 10px 15px;
-  border: 12px solid #ffa949;
-  margin: -8px -8px -20px;
+  border: 12px solid #294969;
+  margin: -8px -8px 0px;
 
 }
 img {
   border-radius: 8px;
-}
-
-h1 {
-  color: steelblue;
 }
