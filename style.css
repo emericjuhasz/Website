@@ -1,7 +1,9 @@
 header {
   background-color: #294969;
   color: ghostwhite;
-  margin: -8px, -8px, -20px;
+  padding: 10px 15px;
+  border: 12px solid #ffa949;
+  margin: -8px -8px -20px;
 
 }
 img {
