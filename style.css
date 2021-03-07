@@ -5,7 +5,6 @@ header {
   margin-right: auto;
   text-align: center;
 
-
 }
 img {
   display: block;
@@ -14,6 +13,20 @@ img {
   margin-right: auto;
 }
 
+h2 {
+  letter-spacing: 1px;
+
+}
+
 body {
   background-color: #294969;
+  color: ghostwhite;
+}
+
+footer {
+  width: 200px;
+  padding: 49x;
+  margin: 30px auto 15px;
+  font-size: .8rem;
+  text-align: center;
 }
